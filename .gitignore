@@ -1,2 +1,7 @@
+# IntelliJ specific
+.idea/
+out/
+*.iml
 
+# Eclipse specific
 .project
