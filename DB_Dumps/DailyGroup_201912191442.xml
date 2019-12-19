@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<!DOCTYPE DailyGroup [
+  <!ELEMENT DailyGroup (DATA_RECORD*)>
+  <!ELEMENT DATA_RECORD (group_id?,date?,tournament_id?)+>
+  <!ELEMENT group_id (#PCDATA)>
+  <!ELEMENT date (#PCDATA)>
+  <!ELEMENT tournament_id (#PCDATA)>
+]>
+<DailyGroup>
+  <DATA_RECORD>
+    <group_id>1</group_id>
+    <date>2020-08-03</date>
+    <tournament_id>1</tournament_id>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <group_id>2</group_id>
+    <date>2020-08-04</date>
+    <tournament_id>1</tournament_id>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <group_id>3</group_id>
+    <date>2020-08-05</date>
+    <tournament_id>1</tournament_id>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <group_id>4</group_id>
+    <date>2020-08-06</date>
+    <tournament_id>1</tournament_id>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <group_id>5</group_id>
+    <date>2020-08-07</date>
+    <tournament_id>1</tournament_id>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <group_id>6</group_id>
+    <date>2020-08-03</date>
+    <tournament_id>1</tournament_id>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <group_id>7</group_id>
+    <date>2020-08-04</date>
+    <tournament_id>1</tournament_id>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <group_id>8</group_id>
+    <date>2020-08-05</date>
+    <tournament_id>1</tournament_id>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <group_id>9</group_id>
+    <date>2020-08-06</date>
+    <tournament_id>1</tournament_id>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <group_id>10</group_id>
+    <date>2020-08-07</date>
+    <tournament_id>1</tournament_id>
+  </DATA_RECORD>
+</DailyGroup>
