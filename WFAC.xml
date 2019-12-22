@@ -1,5 +1,112 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE WFAC SYSTEM "WFAC.dtd">
-<WFAC >
+<WFAC>
 
+	<tournament
+	id="1"
+	name="World Outdoor Flint Archery"
+	location="Estonia"
+	startDate="2020-07-31"
+	endDate="2020-08-08">
+	
+		<day date="2020-08-03">									
+			<group name="Group 1">
+				<dailyscore competitor-id="1" score="326">
+					<scorecard>
+						<score station="1">						
+							<arrowScore attempt="1" value="5"/>	
+							<arrowScore attempt="2" value="3"/>
+							<arrowScore attempt="3" value="3"/>
+							<arrowScore attempt="4" value="5"/>
+						</score>
+						<score station="2">
+							<arrowScore attempt="1" value="0"/>
+							<arrowScore attempt="2" value="5"/>
+							<arrowScore attempt="3" value="3"/>
+							<arrowScore attempt="4" value="3"/>
+						</score>
+						<score station="3">
+							<arrowScore attempt="1" value="5"/>
+							<arrowScore attempt="2" value="4"/>
+							<arrowScore attempt="3" value="0"/>
+							<arrowScore attempt="4" value="0"/>
+						</score>
+						<score station="4">
+							<arrowScore attempt="1" value="5"/>
+							<arrowScore attempt="2" value="0"/>
+							<arrowScore attempt="3" value="5"/>
+							<arrowScore attempt="4" value="0"/>
+						</score>
+						<score station="5">
+							<arrowScore attempt="1" value="0"/>
+							<arrowScore attempt="2" value="3"/>
+							<arrowScore attempt="3" value="4"/>
+							<arrowScore attempt="4" value="4"/>
+						</score>
+					</scorecard>
+				</dailyscore>
+				
+				<!-------TBD----->
+				<dailyscore competitor-id="2" score=" ">		
+					<scorecard>
+						<score station="1">
+							<!-------TBD----->
+						</score>
+						<score station="2">
+							<!-------TBD----->
+						</score>
+							<!-------TBD----->
+							
+					</scorecard>
+				</dailyscore>
+			</group>	
+		</day>
+		
+		<competitors>
+			<competitor id="1">
+				<fname>Karin</fname>
+				<lname>Schöneich</lname>
+				<date-of-birth>1953-02-12</date-of-birth>
+				<mail>karin.schoneich@example.com</mail>
+				<country>Germany</country>
+				<gender>F</gender>
+			</competitor>
+			
+			<competitor id="2">
+				<fname>Magdalena</fname>
+				<lname>Dzielska</lname>
+				<date-of-birth>1950-08-12</date-of-birth>
+				<mail>magdalena.zie@example.com</mail>
+				<country>Poland</country>
+				<gender>F</gender>
+			</competitor>
+			
+			<competitor id="3">
+				<fname>Hildegard</fname>
+				<lname>Schneider</lname>
+				<date-of-birth>1931-02-12</date-of-birth>
+				<mail>hildi@example.com</mail>
+				<country>Austria</country>
+				<gender>F</gender>
+			</competitor>
+			
+			<competitor id="4">
+				<fname>Daniela</fname>
+				<lname>Schneider</lname>
+				<date-of-birth>1941-06-12</date-of-birth>
+				<mail>dani@example.com</mail>
+				<country>Austria</country>
+				<gender>F</gender>
+			</competitor>
+			
+			<competitor id="5">
+				<fname>Michaela</fname>
+				<lname>Denier</lname>
+				<date-of-birth>1945-09-02</date-of-birth>
+				<mail>michieale@example.com</mail>
+				<country>Switzerland</country>
+				<gender>F</gender>
+			</competitor>
+		</competitors>
+	</tournament>
 </WFAC >
