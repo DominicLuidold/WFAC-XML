@@ -45,68 +45,212 @@
 						</score>
 					</scorecard>
 				</dailyscore>
-				
-				<!-------TBD----->
-				<dailyscore competitor-id="2" score=" ">		
-					<scorecard>
-						<score station="1">
-							<!-------TBD----->
-						</score>
-						<score station="2">
-							<!-------TBD----->
-						</score>
-							<!-------TBD----->
-							
-					</scorecard>
+				<dailyscore competitor-id="2" score="325">
+				</dailyscore>				
+				<dailyscore competitor-id="3" score="363">		
+				</dailyscore>				
+				<dailyscore competitor-id="4" score="328">		
+				</dailyscore>				
+				<dailyscore competitor-id="5" score="337">		
 				</dailyscore>
 			</group>	
+			<group name="Group 2">
+				<dailyscore competitor-id="6" score="352">
+				</dailyscore>
+				<dailyscore competitor-id="7" score="324">
+				</dailyscore>
+				<dailyscore competitor-id="8" score="341">
+				</dailyscore>
+				<dailyscore competitor-id="9" score="324">
+				</dailyscore>
+				<dailyscore competitor-id="10" score="324">
+				</dailyscore>
+			</group>
 		</day>
-		
-		<competitors>
-			<competitor id="1">
-				<fname>Karin</fname>
-				<lname>Schöneich</lname>
-				<date-of-birth>1953-02-12</date-of-birth>
-				<mail>karin.schoneich@example.com</mail>
-				<country>Germany</country>
-				<gender>F</gender>
-			</competitor>
+		<day date="2020-08-04">									
+			<group name="Group 1">
+				<dailyscore competitor-id="1" score="347">
+				</dailyscore>
+				<dailyscore competitor-id="2" score="375">		
+				</dailyscore>				
+				<dailyscore competitor-id="3" score="341">		
+				</dailyscore>				
+				<dailyscore competitor-id="4" score="350">		
+				</dailyscore>				
+				<dailyscore competitor-id="5" score="327">		
+				</dailyscore>
+			</group>	
+			<group name="Group 2">
+				<dailyscore competitor-id="6" score="315">
+				</dailyscore>
+				<dailyscore competitor-id="7" score="309">
+				</dailyscore>
+				<dailyscore competitor-id="8" score="283">
+				</dailyscore>
+				<dailyscore competitor-id="9" score="310">
+				</dailyscore>
+				<dailyscore competitor-id="10" score="294">
+				</dailyscore>
+			</group>
+		</day>		
+		<day date="2020-08-05">									
+			<group name="Group 1">
+				<dailyscore competitor-id="1" score="482">
+				</dailyscore>
+				<dailyscore competitor-id="2" score="468">		
+				</dailyscore>				
+				<dailyscore competitor-id="3" score="464">		
+				</dailyscore>				
+				<dailyscore competitor-id="4" score="490">		
+				</dailyscore>				
+				<dailyscore competitor-id="5" score="488">		
+				</dailyscore>
+			</group>	
+			<group name="Group 2">
+				<dailyscore competitor-id="6" score="436">
+				</dailyscore>
+				<dailyscore competitor-id="7" score="476">
+				</dailyscore>
+				<dailyscore competitor-id="8" score="514">
+				</dailyscore>
+				<dailyscore competitor-id="9" score="452">
+				</dailyscore>
+				<dailyscore competitor-id="10" score="438">
+				</dailyscore>
+			</group>
+		</day>	
+		<day date="2020-08-06">									
+			<group name="Group 1">
+				<dailyscore competitor-id="1" score="375">
+				</dailyscore>
+				<dailyscore competitor-id="2" score="367">		
+				</dailyscore>				
+				<dailyscore competitor-id="3" score="353">		
+				</dailyscore>				
+				<dailyscore competitor-id="4" score="338">		
+				</dailyscore>				
+				<dailyscore competitor-id="5" score="349">		
+				</dailyscore>
+			</group>	
+			<group name="Group 2">
+				<dailyscore competitor-id="6" score="330">
+				</dailyscore>
+				<dailyscore competitor-id="7" score="296">
+				</dailyscore>
+				<dailyscore competitor-id="8" score="295">
+				</dailyscore>
+				<dailyscore competitor-id="9" score="340">
+				</dailyscore>
+				<dailyscore competitor-id="10" score="319">
+				</dailyscore>
+			</group>
+		</day>			
+		<day date="2020-08-07">									
+			<group name="Group 1">
+				<dailyscore competitor-id="1" score="362">
+				</dailyscore>
+				<dailyscore competitor-id="2" score="376">		
+				</dailyscore>				
+				<dailyscore competitor-id="3" score="339">		
+				</dailyscore>				
+				<dailyscore competitor-id="4" score="363">		
+				</dailyscore>				
+				<dailyscore competitor-id="5" score="314">		
+				</dailyscore>
+			</group>	
+			<group name="Group 2">
+				<dailyscore competitor-id="6" score="323">
+				</dailyscore>
+				<dailyscore competitor-id="7" score="360">
+				</dailyscore>
+				<dailyscore competitor-id="8" score="338">
+				</dailyscore>
+				<dailyscore competitor-id="9" score="365">
+				</dailyscore>
+				<dailyscore competitor-id="10" score="342">
+				</dailyscore>
+			</group>
+		</day>		
 			
-			<competitor id="2">
-				<fname>Magdalena</fname>
-				<lname>Dzielska</lname>
-				<date-of-birth>1950-08-12</date-of-birth>
-				<mail>magdalena.zie@example.com</mail>
-				<country>Poland</country>
-				<gender>F</gender>
-			</competitor>
-			
-			<competitor id="3">
-				<fname>Hildegard</fname>
-				<lname>Schneider</lname>
-				<date-of-birth>1931-02-12</date-of-birth>
-				<mail>hildi@example.com</mail>
-				<country>Austria</country>
-				<gender>F</gender>
-			</competitor>
-			
-			<competitor id="4">
-				<fname>Daniela</fname>
-				<lname>Schneider</lname>
-				<date-of-birth>1941-06-12</date-of-birth>
-				<mail>dani@example.com</mail>
-				<country>Austria</country>
-				<gender>F</gender>
-			</competitor>
-			
-			<competitor id="5">
-				<fname>Michaela</fname>
-				<lname>Denier</lname>
-				<date-of-birth>1945-09-02</date-of-birth>
-				<mail>michieale@example.com</mail>
-				<country>Switzerland</country>
-				<gender>F</gender>
-			</competitor>
-		</competitors>
+		<competitor id="1">
+			<fname>Karin</fname>
+			<lname>Schöneich</lname>
+			<date-of-birth>1953-02-12</date-of-birth>
+			<mail>karin.schoneich@example.com</mail>
+			<country>Germany</country>
+			<gender>F</gender>
+		</competitor>
+		<competitor id="2">
+			<fname>Magdalena</fname>
+			<lname>Dzielska</lname>
+			<date-of-birth>1950-08-12</date-of-birth>
+			<mail>magdalena.zie@example.com</mail>
+			<country>Poland</country>
+			<gender>F</gender>
+		</competitor>
+		<competitor id="3">
+			<fname>Hildegard</fname>
+			<lname>Schneider</lname>
+			<date-of-birth>1931-02-12</date-of-birth>
+			<mail>hildi@example.com</mail>
+			<country>Austria</country>
+			<gender>F</gender>
+		</competitor>
+		<competitor id="4">
+			<fname>Daniela</fname>
+			<lname>Schneider</lname>
+			<date-of-birth>1941-06-12</date-of-birth>
+			<mail>dani@example.com</mail>
+			<country>Austria</country>
+			<gender>F</gender>
+		</competitor>
+		<competitor id="5">
+			<fname>Michaela</fname>
+			<lname>Denier</lname>
+			<date-of-birth>1945-09-02</date-of-birth>
+			<mail>michieale@example.com</mail>
+			<country>Switzerland</country>
+			<gender>F</gender>
+		</competitor>
+		<competitor id="6">
+			<fname>Franco</fname>
+			<lname>Zuur</lname>
+			<date-of-birth>1953-02-12</date-of-birth>
+			<mail>franco.zuur@example.com</mail>
+			<country>Germany</country>
+			<gender>M</gender>
+		</competitor>
+		<competitor id="7">
+			<fname>Axel</fname>
+			<lname>Bothma</lname>
+			<date-of-birth>1950-08-12</date-of-birth>
+			<mail>axel.bothma@example.com</mail>
+			<country>Poland</country>
+			<gender>M</gender>
+		</competitor>
+		<competitor id="8">
+			<fname>James</fname>
+			<lname>Kruger</lname>
+			<date-of-birth>1931-02-12</date-of-birth>
+			<mail>james@example.com</mail>
+			<country>Austria</country>
+			<gender>M</gender>
+		</competitor>
+		<competitor id="9">
+			<fname>Johann</fname>
+			<lname>Bronkhorst</lname>
+			<date-of-birth>1941-06-12</date-of-birth>
+			<mail>johann@example.com</mail>
+			<country>Austria</country>
+			<gender>M</gender>
+		</competitor>
+		<competitor id="10">
+			<fname>Canell</fname>
+			<lname>Jackson</lname>
+			<date-of-birth>1941-06-12</date-of-birth>
+			<mail>canell@example.com</mail>
+			<country>Switzerland</country>
+			<gender>M</gender>
+		</competitor>
 	</tournament>
 </WFAC >
