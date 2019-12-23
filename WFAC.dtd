@@ -1,2 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-        <!ELEMENT WFAC (#PCDATA)>
+<!ELEMENT WFAC (tournament+)>
+
+<!ELEMENT tournament (day+, competitor+)>
+<!ATTLIST tournament
+	id ID #REQUIRED
+	name CDATA #REQUIRED
+	location CDATA #REQUIRED
+	startDate CDATA #REQUIRED
+	endDate CDATA #REQUIRED
+>
+
+<!ELEMENT day (group+)>
+<!ATTLIST day date CDATA #REQUIRED>
+
+<!ELEMENT group (dailyscore+)>
+<!ATTLIST group name CDATA #REQUIRED>
+
+<!ELEMENT dailyscore (scorecard?)>
+<!ATTLIST dailyscore
+	competitor-id IDREF #REQUIRED
+	score CDATA #REQUIRED
+>
+
+<!ELEMENT scorecard (score+)>
+
+<!ELEMENT score (arrowScore+)>
+<!ATTLIST score station CDATA #REQUIRED>
+
+<!ELEMENT arrowScore EMPTY>
+<!ATTLIST arrowScore
+	attempt CDATA #REQUIRED
+	value CDATA #REQUIRED
+>
+
+<!ELEMENT competitor (fname, lname, date-of-birth, mail, country, gender)>
+<!ATTLIST competitor id ID #REQUIRED>
+
+<!ELEMENT fname (#PCDATA)>
+<!ELEMENT lname (#PCDATA)>
+<!ELEMENT date-of-birth (#PCDATA)>
+<!ELEMENT mail (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT gender (#PCDATA)> 
