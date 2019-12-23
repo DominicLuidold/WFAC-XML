@@ -41,4 +41,4 @@
 <!ELEMENT date-of-birth (#PCDATA)>
 <!ELEMENT mail (#PCDATA)>
 <!ELEMENT country (#PCDATA)>
-<!ELEMENT gender (#PCDATA)> 
+<!ELEMENT gender (#PCDATA)>
