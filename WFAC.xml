@@ -1,512 +1,512 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE WFAC SYSTEM "WFAC.dtd">
 <WFAC>
-	<tournament id="tournament-1"
-		name="World Outdoor Flint Archery" location="Estonia"
-		startDate="2020-07-31" endDate="2020-08-08">
+    <tournament id="tournament-1"
+        name="World Outdoor Flint Archery" location="Estonia"
+        startDate="2020-07-31" endDate="2020-08-08">
 
-		<day date="2020-08-03">
-			<group name="Group 1">
-				<dailyscore competitor-id="competitor-1" score="305">
-					<scorecard>
-						<score station="1">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="3" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="5" />
-						</score>
-						<score station="2">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="3">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="0" />
-							<arrowScore attempt="4" value="0" />
-						</score>
-						<score station="4">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="0" />
-							<arrowScore attempt="3" value="5" />
-							<arrowScore attempt="4" value="0" />
-						</score>
-						<score station="5">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="3" />
-							<arrowScore attempt="3" value="4" />
-							<arrowScore attempt="4" value="4" />
-						</score>
-						<score station="6">
-							<arrowScore attempt="1" value="1" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="7">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="0" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="8">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="5" />
-							<arrowScore attempt="4" value="4" />
-						</score>
-						<score station="9">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="1" />
-						</score>
-						<score station="10">
-							<arrowScore attempt="1" value="4" />
-							<arrowScore attempt="2" value="3" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-						<score station="11">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="4" />
-							<arrowScore attempt="4" value="4" />
-						</score>
-						<score station="12">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="0" />
-							<arrowScore attempt="3" value="1" />
-							<arrowScore attempt="4" value="1" />
-						</score>
-						<score station="13">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="0" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="14">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="0" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="15">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="1" />
-						</score>
-						<score station="16">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="1" />
-						</score>
-						<score station="17">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="1" />
-						</score>
-						<score station="18">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="4" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="19">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="4" />
-							<arrowScore attempt="4" value="4" />
-						</score>
-						<score station="20">
-							<arrowScore attempt="1" value="4" />
-							<arrowScore attempt="2" value="3" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-						<score station="21">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-						<score station="22">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="0" />
-							<arrowScore attempt="3" value="5" />
-							<arrowScore attempt="4" value="5" />
-						</score>
-						<score station="23">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="3" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="1" />
-						</score>
-						<score station="24">
-							<arrowScore attempt="1" value="4" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-						<score station="25">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-						<score station="26">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="5" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-						<score station="27">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-						<score station="28">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="4" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-					</scorecard>
-				</dailyscore>
-				<dailyscore competitor-id="competitor-2" score="306">
-					<scorecard>
-						<score station="1">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="4" />
-						</score>
-						<score station="2">
-							<arrowScore attempt="1" value="3" />
-							<arrowScore attempt="2" value="1" />
-							<arrowScore attempt="3" value="5" />
-							<arrowScore attempt="4" value="5" />
-						</score>
-						<score station="3">
-							<arrowScore attempt="1" value="3" />
-							<arrowScore attempt="2" value="2" />
-							<arrowScore attempt="3" value="1" />
-							<arrowScore attempt="4" value="0" />
-						</score>
-						<score station="4">
-							<arrowScore attempt="1" value="1" />
-							<arrowScore attempt="2" value="1" />
-							<arrowScore attempt="3" value="5" />
-							<arrowScore attempt="4" value="5" />
-						</score>
-						<score station="5">
-							<arrowScore attempt="1" value="3" />
-							<arrowScore attempt="2" value="3" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="1" />
-						</score>
-						<score station="6">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="0" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="5" />
-						</score>
-						<score station="7">
-							<arrowScore attempt="1" value="2" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="8">
-							<arrowScore attempt="1" value="3" />
-							<arrowScore attempt="2" value="3" />
-							<arrowScore attempt="3" value="5" />
-							<arrowScore attempt="4" value="4" />
-						</score>
-						<score station="9">
-							<arrowScore attempt="1" value="1" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="0" />
-							<arrowScore attempt="4" value="1" />
-						</score>
-						<score station="10">
-							<arrowScore attempt="1" value="1" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="5" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-						<score station="11">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="0" />
-							<arrowScore attempt="3" value="4" />
-							<arrowScore attempt="4" value="4" />
-						</score>
-						<score station="12">
-							<arrowScore attempt="1" value="2" />
-							<arrowScore attempt="2" value="2" />
-							<arrowScore attempt="3" value="5" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="13">
-							<arrowScore attempt="1" value="3" />
-							<arrowScore attempt="2" value="0" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="14">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="2" />
-							<arrowScore attempt="3" value="1" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="15">
-							<arrowScore attempt="1" value="4" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="4" />
-						</score>
-						<score station="16">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="5" />
-						</score>
-						<score station="17">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="1" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="1" />
-						</score>
-						<score station="18">
-							<arrowScore attempt="1" value="4" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="0" />
-						</score>
-						<score station="19">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-						<score station="20">
-							<arrowScore attempt="1" value="4" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="0" />
-						</score>
-						<score station="21">
-							<arrowScore attempt="1" value="3" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="1" />
-						</score>
-						<score station="22">
-							<arrowScore attempt="1" value="1" />
-							<arrowScore attempt="2" value="4" />
-							<arrowScore attempt="3" value="5" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="23">
-							<arrowScore attempt="1" value="0" />
-							<arrowScore attempt="2" value="3" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="1" />
-						</score>
-						<score station="24">
-							<arrowScore attempt="1" value="4" />
-							<arrowScore attempt="2" value="3" />
-							<arrowScore attempt="3" value="1" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-						<score station="25">
-							<arrowScore attempt="1" value="5" />
-							<arrowScore attempt="2" value="0" />
-							<arrowScore attempt="3" value="5" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-						<score station="26">
-							<arrowScore attempt="1" value="1" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="3" />
-							<arrowScore attempt="4" value="4" />
-						</score>
-						<score station="27">
-							<arrowScore attempt="1" value="2" />
-							<arrowScore attempt="2" value="2" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="3" />
-						</score>
-						<score station="28">
-							<arrowScore attempt="1" value="3" />
-							<arrowScore attempt="2" value="5" />
-							<arrowScore attempt="3" value="2" />
-							<arrowScore attempt="4" value="2" />
-						</score>
-					</scorecard>
-				</dailyscore>
-				<dailyscore competitor-id="competitor-3" score="363" />
-				<dailyscore competitor-id="competitor-4" score="328" />
-				<dailyscore competitor-id="competitor-5" score="337" />
-			</group>
-			<group name="Group 2">
-				<dailyscore competitor-id="competitor-6" score="352" />
-				<dailyscore competitor-id="competitor-7" score="324" />
-				<dailyscore competitor-id="competitor-8" score="341" />
-				<dailyscore competitor-id="competitor-9" score="324" />
-				<dailyscore competitor-id="competitor-10" score="324" />
-			</group>
-		</day>
-		<day date="2020-08-04">
-			<group name="Group 1">
-				<dailyscore competitor-id="competitor-1" score="347" />
-				<dailyscore competitor-id="competitor-2" score="375" />
-				<dailyscore competitor-id="competitor-3" score="341" />
-				<dailyscore competitor-id="competitor-4" score="350" />
-				<dailyscore competitor-id="competitor-5" score="327" />
-			</group>
-			<group name="Group 2">
-				<dailyscore competitor-id="competitor-6" score="315" />
-				<dailyscore competitor-id="competitor-7" score="309" />
-				<dailyscore competitor-id="competitor-8" score="283" />
-				<dailyscore competitor-id="competitor-9" score="310" />
-				<dailyscore competitor-id="competitor-10" score="294" />
-			</group>
-		</day>
-		<day date="2020-08-05">
-			<group name="Group 1">
-				<dailyscore competitor-id="competitor-1" score="482" />
-				<dailyscore competitor-id="competitor-2" score="468" />
-				<dailyscore competitor-id="competitor-3" score="464" />
-				<dailyscore competitor-id="competitor-4" score="490" />
-				<dailyscore competitor-id="competitor-5" score="488" />
-			</group>
-			<group name="Group 2">
-				<dailyscore competitor-id="competitor-6" score="436" />
-				<dailyscore competitor-id="competitor-7" score="476" />
-				<dailyscore competitor-id="competitor-8" score="514" />
-				<dailyscore competitor-id="competitor-9" score="452" />
-				<dailyscore competitor-id="competitor-10" score="438" />
-			</group>
-		</day>
-		<day date="2020-08-06">
-			<group name="Group 1">
-				<dailyscore competitor-id="competitor-1" score="375" />
-				<dailyscore competitor-id="competitor-2" score="367" />
-				<dailyscore competitor-id="competitor-3" score="353" />
-				<dailyscore competitor-id="competitor-4" score="338" />
-				<dailyscore competitor-id="competitor-5" score="349" />
-			</group>
-			<group name="Group 2">
-				<dailyscore competitor-id="competitor-6" score="330" />
-				<dailyscore competitor-id="competitor-7" score="296" />
-				<dailyscore competitor-id="competitor-8" score="295" />
-				<dailyscore competitor-id="competitor-9" score="340" />
-				<dailyscore competitor-id="competitor-10" score="319" />
-			</group>
-		</day>
-		<day date="2020-08-07">
-			<group name="Group 1">
-				<dailyscore competitor-id="competitor-1" score="362" />
-				<dailyscore competitor-id="competitor-2" score="376" />
-				<dailyscore competitor-id="competitor-3" score="339" />
-				<dailyscore competitor-id="competitor-4" score="363" />
-				<dailyscore competitor-id="competitor-5" score="314" />
-			</group>
-			<group name="Group 2">
-				<dailyscore competitor-id="competitor-6" score="323" />
-				<dailyscore competitor-id="competitor-7" score="360" />
-				<dailyscore competitor-id="competitor-8" score="338" />
-				<dailyscore competitor-id="competitor-9" score="365" />
-				<dailyscore competitor-id="competitor-10" score="342" />
-			</group>
-		</day>
+        <day date="2020-08-03">
+            <group name="Group 1">
+                <dailyscore competitor-id="competitor-1" score="305">
+                    <scorecard>
+                        <score station="1">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="3" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="5" />
+                        </score>
+                        <score station="2">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="3">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="0" />
+                            <arrowScore attempt="4" value="0" />
+                        </score>
+                        <score station="4">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="0" />
+                            <arrowScore attempt="3" value="5" />
+                            <arrowScore attempt="4" value="0" />
+                        </score>
+                        <score station="5">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="3" />
+                            <arrowScore attempt="3" value="4" />
+                            <arrowScore attempt="4" value="4" />
+                        </score>
+                        <score station="6">
+                            <arrowScore attempt="1" value="1" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="7">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="0" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="8">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="5" />
+                            <arrowScore attempt="4" value="4" />
+                        </score>
+                        <score station="9">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="1" />
+                        </score>
+                        <score station="10">
+                            <arrowScore attempt="1" value="4" />
+                            <arrowScore attempt="2" value="3" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                        <score station="11">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="4" />
+                            <arrowScore attempt="4" value="4" />
+                        </score>
+                        <score station="12">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="0" />
+                            <arrowScore attempt="3" value="1" />
+                            <arrowScore attempt="4" value="1" />
+                        </score>
+                        <score station="13">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="0" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="14">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="0" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="15">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="1" />
+                        </score>
+                        <score station="16">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="1" />
+                        </score>
+                        <score station="17">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="1" />
+                        </score>
+                        <score station="18">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="4" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="19">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="4" />
+                            <arrowScore attempt="4" value="4" />
+                        </score>
+                        <score station="20">
+                            <arrowScore attempt="1" value="4" />
+                            <arrowScore attempt="2" value="3" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                        <score station="21">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                        <score station="22">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="0" />
+                            <arrowScore attempt="3" value="5" />
+                            <arrowScore attempt="4" value="5" />
+                        </score>
+                        <score station="23">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="3" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="1" />
+                        </score>
+                        <score station="24">
+                            <arrowScore attempt="1" value="4" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                        <score station="25">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                        <score station="26">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="5" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                        <score station="27">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                        <score station="28">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="4" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                    </scorecard>
+                </dailyscore>
+                <dailyscore competitor-id="competitor-2" score="306">
+                    <scorecard>
+                        <score station="1">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="4" />
+                        </score>
+                        <score station="2">
+                            <arrowScore attempt="1" value="3" />
+                            <arrowScore attempt="2" value="1" />
+                            <arrowScore attempt="3" value="5" />
+                            <arrowScore attempt="4" value="5" />
+                        </score>
+                        <score station="3">
+                            <arrowScore attempt="1" value="3" />
+                            <arrowScore attempt="2" value="2" />
+                            <arrowScore attempt="3" value="1" />
+                            <arrowScore attempt="4" value="0" />
+                        </score>
+                        <score station="4">
+                            <arrowScore attempt="1" value="1" />
+                            <arrowScore attempt="2" value="1" />
+                            <arrowScore attempt="3" value="5" />
+                            <arrowScore attempt="4" value="5" />
+                        </score>
+                        <score station="5">
+                            <arrowScore attempt="1" value="3" />
+                            <arrowScore attempt="2" value="3" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="1" />
+                        </score>
+                        <score station="6">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="0" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="5" />
+                        </score>
+                        <score station="7">
+                            <arrowScore attempt="1" value="2" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="8">
+                            <arrowScore attempt="1" value="3" />
+                            <arrowScore attempt="2" value="3" />
+                            <arrowScore attempt="3" value="5" />
+                            <arrowScore attempt="4" value="4" />
+                        </score>
+                        <score station="9">
+                            <arrowScore attempt="1" value="1" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="0" />
+                            <arrowScore attempt="4" value="1" />
+                        </score>
+                        <score station="10">
+                            <arrowScore attempt="1" value="1" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="5" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                        <score station="11">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="0" />
+                            <arrowScore attempt="3" value="4" />
+                            <arrowScore attempt="4" value="4" />
+                        </score>
+                        <score station="12">
+                            <arrowScore attempt="1" value="2" />
+                            <arrowScore attempt="2" value="2" />
+                            <arrowScore attempt="3" value="5" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="13">
+                            <arrowScore attempt="1" value="3" />
+                            <arrowScore attempt="2" value="0" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="14">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="2" />
+                            <arrowScore attempt="3" value="1" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="15">
+                            <arrowScore attempt="1" value="4" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="4" />
+                        </score>
+                        <score station="16">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="5" />
+                        </score>
+                        <score station="17">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="1" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="1" />
+                        </score>
+                        <score station="18">
+                            <arrowScore attempt="1" value="4" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="0" />
+                        </score>
+                        <score station="19">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                        <score station="20">
+                            <arrowScore attempt="1" value="4" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="0" />
+                        </score>
+                        <score station="21">
+                            <arrowScore attempt="1" value="3" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="1" />
+                        </score>
+                        <score station="22">
+                            <arrowScore attempt="1" value="1" />
+                            <arrowScore attempt="2" value="4" />
+                            <arrowScore attempt="3" value="5" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="23">
+                            <arrowScore attempt="1" value="0" />
+                            <arrowScore attempt="2" value="3" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="1" />
+                        </score>
+                        <score station="24">
+                            <arrowScore attempt="1" value="4" />
+                            <arrowScore attempt="2" value="3" />
+                            <arrowScore attempt="3" value="1" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                        <score station="25">
+                            <arrowScore attempt="1" value="5" />
+                            <arrowScore attempt="2" value="0" />
+                            <arrowScore attempt="3" value="5" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                        <score station="26">
+                            <arrowScore attempt="1" value="1" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="3" />
+                            <arrowScore attempt="4" value="4" />
+                        </score>
+                        <score station="27">
+                            <arrowScore attempt="1" value="2" />
+                            <arrowScore attempt="2" value="2" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="3" />
+                        </score>
+                        <score station="28">
+                            <arrowScore attempt="1" value="3" />
+                            <arrowScore attempt="2" value="5" />
+                            <arrowScore attempt="3" value="2" />
+                            <arrowScore attempt="4" value="2" />
+                        </score>
+                    </scorecard>
+                </dailyscore>
+                <dailyscore competitor-id="competitor-3" score="363" />
+                <dailyscore competitor-id="competitor-4" score="328" />
+                <dailyscore competitor-id="competitor-5" score="337" />
+            </group>
+            <group name="Group 2">
+                <dailyscore competitor-id="competitor-6" score="352" />
+                <dailyscore competitor-id="competitor-7" score="324" />
+                <dailyscore competitor-id="competitor-8" score="341" />
+                <dailyscore competitor-id="competitor-9" score="324" />
+                <dailyscore competitor-id="competitor-10" score="324" />
+            </group>
+        </day>
+        <day date="2020-08-04">
+            <group name="Group 1">
+                <dailyscore competitor-id="competitor-1" score="347" />
+                <dailyscore competitor-id="competitor-2" score="375" />
+                <dailyscore competitor-id="competitor-3" score="341" />
+                <dailyscore competitor-id="competitor-4" score="350" />
+                <dailyscore competitor-id="competitor-5" score="327" />
+            </group>
+            <group name="Group 2">
+                <dailyscore competitor-id="competitor-6" score="315" />
+                <dailyscore competitor-id="competitor-7" score="309" />
+                <dailyscore competitor-id="competitor-8" score="283" />
+                <dailyscore competitor-id="competitor-9" score="310" />
+                <dailyscore competitor-id="competitor-10" score="294" />
+            </group>
+        </day>
+        <day date="2020-08-05">
+            <group name="Group 1">
+                <dailyscore competitor-id="competitor-1" score="482" />
+                <dailyscore competitor-id="competitor-2" score="468" />
+                <dailyscore competitor-id="competitor-3" score="464" />
+                <dailyscore competitor-id="competitor-4" score="490" />
+                <dailyscore competitor-id="competitor-5" score="488" />
+            </group>
+            <group name="Group 2">
+                <dailyscore competitor-id="competitor-6" score="436" />
+                <dailyscore competitor-id="competitor-7" score="476" />
+                <dailyscore competitor-id="competitor-8" score="514" />
+                <dailyscore competitor-id="competitor-9" score="452" />
+                <dailyscore competitor-id="competitor-10" score="438" />
+            </group>
+        </day>
+        <day date="2020-08-06">
+            <group name="Group 1">
+                <dailyscore competitor-id="competitor-1" score="375" />
+                <dailyscore competitor-id="competitor-2" score="367" />
+                <dailyscore competitor-id="competitor-3" score="353" />
+                <dailyscore competitor-id="competitor-4" score="338" />
+                <dailyscore competitor-id="competitor-5" score="349" />
+            </group>
+            <group name="Group 2">
+                <dailyscore competitor-id="competitor-6" score="330" />
+                <dailyscore competitor-id="competitor-7" score="296" />
+                <dailyscore competitor-id="competitor-8" score="295" />
+                <dailyscore competitor-id="competitor-9" score="340" />
+                <dailyscore competitor-id="competitor-10" score="319" />
+            </group>
+        </day>
+        <day date="2020-08-07">
+            <group name="Group 1">
+                <dailyscore competitor-id="competitor-1" score="362" />
+                <dailyscore competitor-id="competitor-2" score="376" />
+                <dailyscore competitor-id="competitor-3" score="339" />
+                <dailyscore competitor-id="competitor-4" score="363" />
+                <dailyscore competitor-id="competitor-5" score="314" />
+            </group>
+            <group name="Group 2">
+                <dailyscore competitor-id="competitor-6" score="323" />
+                <dailyscore competitor-id="competitor-7" score="360" />
+                <dailyscore competitor-id="competitor-8" score="338" />
+                <dailyscore competitor-id="competitor-9" score="365" />
+                <dailyscore competitor-id="competitor-10" score="342" />
+            </group>
+        </day>
 
-		<competitor id="competitor-1">
-			<fname>Karin</fname>
-			<lname>Schöneich</lname>
-			<date-of-birth>1953-02-12</date-of-birth>
-			<mail>karin.schoneich@example.com</mail>
-			<country>Germany</country>
-			<gender>F</gender>
-		</competitor>
-		<competitor id="competitor-2">
-			<fname>Magdalena</fname>
-			<lname>Dzielska</lname>
-			<date-of-birth>1950-08-12</date-of-birth>
-			<mail>magdalena.zie@example.com</mail>
-			<country>Poland</country>
-			<gender>F</gender>
-		</competitor>
-		<competitor id="competitor-3">
-			<fname>Hildegard</fname>
-			<lname>Schneider</lname>
-			<date-of-birth>1931-02-12</date-of-birth>
-			<mail>hildi@example.com</mail>
-			<country>Austria</country>
-			<gender>F</gender>
-		</competitor>
-		<competitor id="competitor-4">
-			<fname>Daniela</fname>
-			<lname>Schneider</lname>
-			<date-of-birth>1941-06-12</date-of-birth>
-			<mail>dani@example.com</mail>
-			<country>Austria</country>
-			<gender>F</gender>
-		</competitor>
-		<competitor id="competitor-5">
-			<fname>Michaela</fname>
-			<lname>Denier</lname>
-			<date-of-birth>1945-09-02</date-of-birth>
-			<mail>michieale@example.com</mail>
-			<country>Switzerland</country>
-			<gender>F</gender>
-		</competitor>
-		<competitor id="competitor-6">
-			<fname>Franco</fname>
-			<lname>Zuur</lname>
-			<date-of-birth>1953-02-12</date-of-birth>
-			<mail>franco.zuur@example.com</mail>
-			<country>Germany</country>
-			<gender>M</gender>
-		</competitor>
-		<competitor id="competitor-7">
-			<fname>Axel</fname>
-			<lname>Bothma</lname>
-			<date-of-birth>1950-08-12</date-of-birth>
-			<mail>axel.bothma@example.com</mail>
-			<country>Poland</country>
-			<gender>M</gender>
-		</competitor>
-		<competitor id="competitor-8">
-			<fname>James</fname>
-			<lname>Kruger</lname>
-			<date-of-birth>1931-02-12</date-of-birth>
-			<mail>james@example.com</mail>
-			<country>Austria</country>
-			<gender>M</gender>
-		</competitor>
-		<competitor id="competitor-9">
-			<fname>Johann</fname>
-			<lname>Bronkhorst</lname>
-			<date-of-birth>1941-06-12</date-of-birth>
-			<mail>johann@example.com</mail>
-			<country>Austria</country>
-			<gender>M</gender>
-		</competitor>
-		<competitor id="competitor-10">
-			<fname>Canell</fname>
-			<lname>Jackson</lname>
-			<date-of-birth>1941-06-12</date-of-birth>
-			<mail>canell@example.com</mail>
-			<country>Switzerland</country>
-			<gender>M</gender>
-		</competitor>
-	</tournament>
+        <competitor id="competitor-1">
+            <fname>Karin</fname>
+            <lname>Schöneich</lname>
+            <date-of-birth>1953-02-12</date-of-birth>
+            <mail>karin.schoneich@example.com</mail>
+            <country>Germany</country>
+            <gender>F</gender>
+        </competitor>
+        <competitor id="competitor-2">
+            <fname>Magdalena</fname>
+            <lname>Dzielska</lname>
+            <date-of-birth>1950-08-12</date-of-birth>
+            <mail>magdalena.zie@example.com</mail>
+            <country>Poland</country>
+            <gender>F</gender>
+        </competitor>
+        <competitor id="competitor-3">
+            <fname>Hildegard</fname>
+            <lname>Schneider</lname>
+            <date-of-birth>1931-02-12</date-of-birth>
+            <mail>hildi@example.com</mail>
+            <country>Austria</country>
+            <gender>F</gender>
+        </competitor>
+        <competitor id="competitor-4">
+            <fname>Daniela</fname>
+            <lname>Schneider</lname>
+            <date-of-birth>1941-06-12</date-of-birth>
+            <mail>dani@example.com</mail>
+            <country>Austria</country>
+            <gender>F</gender>
+        </competitor>
+        <competitor id="competitor-5">
+            <fname>Michaela</fname>
+            <lname>Denier</lname>
+            <date-of-birth>1945-09-02</date-of-birth>
+            <mail>michieale@example.com</mail>
+            <country>Switzerland</country>
+            <gender>F</gender>
+        </competitor>
+        <competitor id="competitor-6">
+            <fname>Franco</fname>
+            <lname>Zuur</lname>
+            <date-of-birth>1953-02-12</date-of-birth>
+            <mail>franco.zuur@example.com</mail>
+            <country>Germany</country>
+            <gender>M</gender>
+        </competitor>
+        <competitor id="competitor-7">
+            <fname>Axel</fname>
+            <lname>Bothma</lname>
+            <date-of-birth>1950-08-12</date-of-birth>
+            <mail>axel.bothma@example.com</mail>
+            <country>Poland</country>
+            <gender>M</gender>
+        </competitor>
+        <competitor id="competitor-8">
+            <fname>James</fname>
+            <lname>Kruger</lname>
+            <date-of-birth>1931-02-12</date-of-birth>
+            <mail>james@example.com</mail>
+            <country>Austria</country>
+            <gender>M</gender>
+        </competitor>
+        <competitor id="competitor-9">
+            <fname>Johann</fname>
+            <lname>Bronkhorst</lname>
+            <date-of-birth>1941-06-12</date-of-birth>
+            <mail>johann@example.com</mail>
+            <country>Austria</country>
+            <gender>M</gender>
+        </competitor>
+        <competitor id="competitor-10">
+            <fname>Canell</fname>
+            <lname>Jackson</lname>
+            <date-of-birth>1941-06-12</date-of-birth>
+            <mail>canell@example.com</mail>
+            <country>Switzerland</country>
+            <gender>M</gender>
+        </competitor>
+    </tournament>
 </WFAC>
