@@ -39,147 +39,147 @@
 							<arrowScore attempt="3" value="4" />
 							<arrowScore attempt="4" value="4" />
 						</score>
-						<score station = "6">
-							<arrowScore attempt = "1" value = "1" />
-							<arrowScore attempt = "2" value = "4" />
-							<arrowScore attempt = "3" value = "2" />
-							<arrowScore attempt = "4" value = "3" />
+						<score station="6">
+							<arrowScore attempt="1" value="1" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="3" />
 						</score>
-						<score station = "7">
-							<arrowScore attempt = "1" value = "5" />
-							<arrowScore attempt = "2" value = "0" />
-							<arrowScore attempt = "3" value = "3" />
-							<arrowScore attempt = "4" value = "3" />
+						<score station="7">
+							<arrowScore attempt="1" value="5" />
+							<arrowScore attempt="2" value="0" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="3" />
 						</score>
-						<score station = "8">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "4" />
-							<arrowScore attempt = "3" value = "5" />
-							<arrowScore attempt = "4" value = "4" />
+						<score station="8">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="5" />
+							<arrowScore attempt="4" value="4" />
 						</score>
-						<score station = "9">
-							<arrowScore attempt = "1" value = "5" />
-							<arrowScore attempt = "2" value = "4" />
-							<arrowScore attempt = "3" value = "3" />
-							<arrowScore attempt = "4" value = "1" />
+						<score station="9">
+							<arrowScore attempt="1" value="5" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="1" />
 						</score>
-						<score station = "10">
-							<arrowScore attempt = "1" value = "4" />
-							<arrowScore attempt = "2" value = "3" />
-							<arrowScore attempt = "3" value = "2" />
-							<arrowScore attempt = "4" value = "2" />
+						<score station="10">
+							<arrowScore attempt="1" value="4" />
+							<arrowScore attempt="2" value="3" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="2" />
 						</score>
-						<score station = "11">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "5" />
-							<arrowScore attempt = "3" value = "4" />
-							<arrowScore attempt = "4" value = "4" />
+						<score station="11">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="4" />
+							<arrowScore attempt="4" value="4" />
 						</score>
-						<score station = "12">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "0" />
-							<arrowScore attempt = "3" value = "1" />
-							<arrowScore attempt = "4" value = "1" />
+						<score station="12">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="0" />
+							<arrowScore attempt="3" value="1" />
+							<arrowScore attempt="4" value="1" />
 						</score>
-						<score station = "13">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "0" />
-							<arrowScore attempt = "3" value = "3" />
-							<arrowScore attempt = "4" value = "3" />
+						<score station="13">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="0" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="3" />
 						</score>
-						<score station = "14">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "0" />
-							<arrowScore attempt = "3" value = "3" />
-							<arrowScore attempt = "4" value = "3" />
+						<score station="14">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="0" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="3" />
 						</score>
-						<score station = "15">
-							<arrowScore attempt = "1" value = "5" />
-							<arrowScore attempt = "2" value = "4" />
-							<arrowScore attempt = "3" value = "2" />
-							<arrowScore attempt = "4" value = "1" />
+						<score station="15">
+							<arrowScore attempt="1" value="5" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="1" />
 						</score>
-						<score station = "16">
-							<arrowScore attempt = "1" value = "5" />
-							<arrowScore attempt = "2" value = "4" />
-							<arrowScore attempt = "3" value = "2" />
-							<arrowScore attempt = "4" value = "1" />
+						<score station="16">
+							<arrowScore attempt="1" value="5" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="1" />
 						</score>
-						<score station = "17">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "4" />
-							<arrowScore attempt = "3" value = "2" />
-							<arrowScore attempt = "4" value = "1" />
+						<score station="17">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="1" />
 						</score>
-						<score station = "18">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "5" />
-							<arrowScore attempt = "3" value = "4" />
-							<arrowScore attempt = "4" value = "3" />
+						<score station="18">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="4" />
+							<arrowScore attempt="4" value="3" />
 						</score>
-						<score station = "19">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "5" />
-							<arrowScore attempt = "3" value = "4" />
-							<arrowScore attempt = "4" value = "4" />
+						<score station="19">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="4" />
+							<arrowScore attempt="4" value="4" />
 						</score>
-						<score station = "20">
-							<arrowScore attempt = "1" value = "4" />
-							<arrowScore attempt = "2" value = "3" />
-							<arrowScore attempt = "3" value = "3" />
-							<arrowScore attempt = "4" value = "2" />
+						<score station="20">
+							<arrowScore attempt="1" value="4" />
+							<arrowScore attempt="2" value="3" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="2" />
 						</score>
-						<score station = "21">
-							<arrowScore attempt = "1" value = "5" />
-							<arrowScore attempt = "2" value = "4" />
-							<arrowScore attempt = "3" value = "3" />
-							<arrowScore attempt = "4" value = "2" />
+						<score station="21">
+							<arrowScore attempt="1" value="5" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="2" />
 						</score>
-						<score station = "22">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "0" />
-							<arrowScore attempt = "3" value = "5" />
-							<arrowScore attempt = "4" value = "5" />
+						<score station="22">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="0" />
+							<arrowScore attempt="3" value="5" />
+							<arrowScore attempt="4" value="5" />
 						</score>
-						<score station = "23">
-							<arrowScore attempt = "1" value = "5" />
-							<arrowScore attempt = "2" value = "3" />
-							<arrowScore attempt = "3" value = "2" />
-							<arrowScore attempt = "4" value = "1" />
+						<score station="23">
+							<arrowScore attempt="1" value="5" />
+							<arrowScore attempt="2" value="3" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="1" />
 						</score>
-						<score station = "24">
-							<arrowScore attempt = "1" value = "4" />
-							<arrowScore attempt = "2" value = "4" />
-							<arrowScore attempt = "3" value = "3" />
-							<arrowScore attempt = "4" value = "2" />
+						<score station="24">
+							<arrowScore attempt="1" value="4" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="2" />
 						</score>
-						<score station = "25">
-							<arrowScore attempt = "1" value = "5" />
-							<arrowScore attempt = "2" value = "4" />
-							<arrowScore attempt = "3" value = "3" />
-							<arrowScore attempt = "4" value = "2" />
+						<score station="25">
+							<arrowScore attempt="1" value="5" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="2" />
 						</score>
-						<score station = "26">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "5" />
-							<arrowScore attempt = "3" value = "5" />
-							<arrowScore attempt = "4" value = "2" />
+						<score station="26">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="5" />
+							<arrowScore attempt="4" value="2" />
 						</score>
-						<score station = "27">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "5" />
-							<arrowScore attempt = "3" value = "2" />
-							<arrowScore attempt = "4" value = "2" />
+						<score station="27">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="2" />
 						</score>
-						<score station = "28">
-							<arrowScore attempt = "1" value = "0" />
-							<arrowScore attempt = "2" value = "5" />
-							<arrowScore attempt = "3" value = "4" />
-							<arrowScore attempt = "4" value = "3" />
+						<score station="28">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="4" />
+							<arrowScore attempt="4" value="3" />
 						</score>
 					</scorecard>
 				</dailyscore>
-				<dailyscore competitor-id="competitor-2" score="306" />
+				<dailyscore competitor-id="competitor-2" score="306">
 					<scorecard>
 						<score station="1">
 							<arrowScore attempt="1" value="0" />
@@ -211,143 +211,146 @@
 							<arrowScore attempt="3" value="2" />
 							<arrowScore attempt="4" value="1" />
 						</score>
-						<score station = "6">
-							<arrowScore attempt= "1" value = "0" />
-							<arrowScore attempt= "2" value = "0" />
-							<arrowScore attempt= "3" value = "2" />
-							<arrowScore attempt= "4" value = "5" />
+						<score station="6">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="0" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="5" />
 						</score>
-						<score station = "7">
-							<arrowScore attempt= "1" value = "2" />
-							<arrowScore attempt= "2" value = "5" />
-							<arrowScore attempt= "3" value = "3" />
-							<arrowScore attempt= "4" value = "3" />
+						<score station="7">
+							<arrowScore attempt="1" value="2" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="3" />
 						</score>
-						<score station = "8">
-							<arrowScore attempt= "1" value = "3" />
-							<arrowScore attempt= "2" value = "3" />
-							<arrowScore attempt= "3" value = "5" />
-							<arrowScore attempt= "4" value = "4" />
+						<score station="8">
+							<arrowScore attempt="1" value="3" />
+							<arrowScore attempt="2" value="3" />
+							<arrowScore attempt="3" value="5" />
+							<arrowScore attempt="4" value="4" />
 						</score>
-						<score station = "9">
-							<arrowScore attempt= "1" value = "1" />
-							<arrowScore attempt= "2" value = "5" />
-							<arrowScore attempt= "3" value = "0" />
-							<arrowScore attempt= "4" value = "1" />
+						<score station="9">
+							<arrowScore attempt="1" value="1" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="0" />
+							<arrowScore attempt="4" value="1" />
 						</score>
-						<score station = "10">
-							<arrowScore attempt= "1" value = "1" />
-							<arrowScore attempt= "2" value = "4" />
-							<arrowScore attempt= "3" value = "5" />
-							<arrowScore attempt= "4" value = "2" />
+						<score station="10">
+							<arrowScore attempt="1" value="1" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="5" />
+							<arrowScore attempt="4" value="2" />
 						</score>
-						<score station = "11">
-							<arrowScore attempt= "1" value = "0" />
-							<arrowScore attempt= "2" value = "0" />
-							<arrowScore attempt= "3" value = "4" />
-							<arrowScore attempt= "4" value = "4" />
+						<score station="11">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="0" />
+							<arrowScore attempt="3" value="4" />
+							<arrowScore attempt="4" value="4" />
 						</score>
-						<score station = "12">
-							<arrowScore attempt= "1" value = "2" />
-							<arrowScore attempt= "2" value = "2" />
-							<arrowScore attempt= "3" value = "5" />
-							<arrowScore attempt= "4" value = "3" />
+						<score station="12">
+							<arrowScore attempt="1" value="2" />
+							<arrowScore attempt="2" value="2" />
+							<arrowScore attempt="3" value="5" />
+							<arrowScore attempt="4" value="3" />
 						</score>
-						<score station = "13">
-							<arrowScore attempt= "1" value = "3" />
-							<arrowScore attempt= "2" value = "0" />
-							<arrowScore attempt= "3" value = "3" />
-							<arrowScore attempt= "4" value = "3" />
+						<score station="13">
+							<arrowScore attempt="1" value="3" />
+							<arrowScore attempt="2" value="0" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="3" />
 						</score>
-						<score station = "14">
-							<arrowScore attempt= "1" value = "5" />
-							<arrowScore attempt= "2" value = "2" />
-							<arrowScore attempt= "3" value = "1" />
-							<arrowScore attempt= "4" value = "3" />
+						<score station="14">
+							<arrowScore attempt="1" value="5" />
+							<arrowScore attempt="2" value="2" />
+							<arrowScore attempt="3" value="1" />
+							<arrowScore attempt="4" value="3" />
 						</score>
-						<score station = "15">
-							<arrowScore attempt= "1" value = "4" />
-							<arrowScore attempt= "2" value = "4" />
-							<arrowScore attempt= "3" value = "2" />
-							<arrowScore attempt= "4" value = "4" />
+						<score station="15">
+							<arrowScore attempt="1" value="4" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="4" />
 						</score>
-						<score station = "16">
-							<arrowScore attempt= "1" value = "0" />
-							<arrowScore attempt= "2" value = "4" />
-							<arrowScore attempt= "3" value = "3" />
-							<arrowScore attempt= "4" value = "5" />
+						<score station="16">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="5" />
 						</score>
-						<score station = "17">
-							<arrowScore attempt= "1" value = "5" />
-							<arrowScore attempt= "2" value = "1" />
-							<arrowScore attempt= "3" value = "3" />
-							<arrowScore attempt= "4" value = "1" />
+						<score station="17">
+							<arrowScore attempt="1" value="5" />
+							<arrowScore attempt="2" value="1" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="1" />
 						</score>
-						<score station = "18">
-							<arrowScore attempt= "1" value = "4" />
-							<arrowScore attempt= "2" value = "5" />
-							<arrowScore attempt= "3" value = "2" />
-							<arrowScore attempt= "4" value = "0" />
+						<score station="18">
+							<arrowScore attempt="1" value="4" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="0" />
 						</score>
-						<score station = "19">
-							<arrowScore attempt= "1" value = "5" />
-							<arrowScore attempt= "2" value = "5" />
-							<arrowScore attempt= "3" value = "3" />
-							<arrowScore attempt= "4" value = "2" />
+						<score station="19">
+							<arrowScore attempt="1" value="5" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="2" />
 						</score>
-						<score station = "20">
-							<arrowScore attempt= "1" value = "4" />
-							<arrowScore attempt= "2" value = "5" />
-							<arrowScore attempt= "3" value = "3" />
-							<arrowScore attempt= "4" value = "0" />
+						<score station="20">
+							<arrowScore attempt="1" value="4" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="0" />
 						</score>
-						<score station = "21">
-							<arrowScore attempt= "1" value = "3" />
-							<arrowScore attempt= "2" value = "4" />
-							<arrowScore attempt= "3" value = "2" />
-							<arrowScore attempt= "4" value = "1" />
+						<score station="21">
+							<arrowScore attempt="1" value="3" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="1" />
 						</score>
-						<score station = "22">
-							<arrowScore attempt= "1" value = "1" />
-							<arrowScore attempt= "2" value = "4" />
-							<arrowScore attempt= "3" value = "5" />
-							<arrowScore attempt= "4" value = "3" />
+						<score station="22">
+							<arrowScore attempt="1" value="1" />
+							<arrowScore attempt="2" value="4" />
+							<arrowScore attempt="3" value="5" />
+							<arrowScore attempt="4" value="3" />
 						</score>
-						<score station = "23">
-							<arrowScore attempt= "1" value = "0" />
-							<arrowScore attempt= "2" value = "3" />
-							<arrowScore attempt= "3" value = "2" />
-							<arrowScore attempt= "4" value = "1" />
+						<score station="23">
+							<arrowScore attempt="1" value="0" />
+							<arrowScore attempt="2" value="3" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="1" />
 						</score>
-						<score station = "24">
-							<arrowScore attempt= "1" value = "4" />
-							<arrowScore attempt= "2" value = "3" />
-							<arrowScore attempt= "3" value = "1" />
-							<arrowScore attempt= "4" value = "2" />
+						<score station="24">
+							<arrowScore attempt="1" value="4" />
+							<arrowScore attempt="2" value="3" />
+							<arrowScore attempt="3" value="1" />
+							<arrowScore attempt="4" value="2" />
 						</score>
-						<score station = "25">
-							<arrowScore attempt= "1" value = "5" />
-							<arrowScore attempt= "2" value = "0" />
-							<arrowScore attempt= "3" value = "5" />
-							<arrowScore attempt= "4" value = "2" />
+						<score station="25">
+							<arrowScore attempt="1" value="5" />
+							<arrowScore attempt="2" value="0" />
+							<arrowScore attempt="3" value="5" />
+							<arrowScore attempt="4" value="2" />
 						</score>
-						<score station = "26">
-							<arrowScore attempt= "1" value = "1" />
-							<arrowScore attempt= "2" value = "5" />
-							<arrowScore attempt= "3" value = "3" />
-							<arrowScore attempt= "4" value = "4" />
+						<score station="26">
+							<arrowScore attempt="1" value="1" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="3" />
+							<arrowScore attempt="4" value="4" />
 						</score>
-						<score station = "27">
-							<arrowScore attempt= "1" value = "2" />
-							<arrowScore attempt= "2" value = "2" />
-							<arrowScore attempt= "3" value = "2" />
-							<arrowScore attempt= "4" value = "3" />
+						<score station="27">
+							<arrowScore attempt="1" value="2" />
+							<arrowScore attempt="2" value="2" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="3" />
 						</score>
-						<score station = "28">
-							<arrowScore attempt= "1" value = "3" />
-							<arrowScore attempt= "2" value = "5" />
-							<arrowScore attempt= "3" value = "2" />
-							<arrowScore attempt= "4" value = "2" />
+						<score station="28">
+							<arrowScore attempt="1" value="3" />
+							<arrowScore attempt="2" value="5" />
+							<arrowScore attempt="3" value="2" />
+							<arrowScore attempt="4" value="2" />
+						</score>
+					</scorecard>
+				</dailyscore>
 				<dailyscore competitor-id="competitor-3" score="363" />
 				<dailyscore competitor-id="competitor-4" score="328" />
 				<dailyscore competitor-id="competitor-5" score="337" />
