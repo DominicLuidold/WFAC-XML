@@ -28,9 +28,13 @@
     
     <!-- Template for each group of a day -->
     <xsl:template match="group">
-        <h3><xsl:value-of select="@name"/></h3>
+        <h3 id="{generate-id()}"><xsl:value-of select="@name"/></h3>
         <xsl:for-each select="dailyscore">
-            <!-- TODO -->
+            <div xml:space="preserve">
+                <xsl:value-of select="id(@competitor-id)/fname"/>
+                <xsl:value-of select="id(@competitor-id)/lname"/>
+                (<a href="#"><xsl:value-of select="@score"/></a>)
+            </div>
         </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
