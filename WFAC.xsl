@@ -25,7 +25,7 @@
         <h2><xsl:value-of select="position()"/>. Day, <xsl:value-of select="@date"/></h2>
         <hr></hr>
         <xsl:apply-templates select="group"/>
-        <xsl:apply-templates select="//WFAC/tournament/day[@date = $currentDate]" mode="total" >
+        <xsl:apply-templates select="." mode="total" >
             <xsl:with-param name="dayNumber" select="position()"></xsl:with-param>
         </xsl:apply-templates>
 
