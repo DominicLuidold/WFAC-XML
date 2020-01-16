@@ -24,16 +24,15 @@
                 <fo:flow flow-name="xsl-region-body" font-family="sans-serif" font-size="28pt">
                     <fo:block>
                         <xsl:value-of select="tournament/@name"/>
-
                     </fo:block>
-                </fo:flow>
-            </fo:page-sequence>
+              
+         
             <!-- table of contents -->
-            <fo:page-sequence master-reference="wfac-page">
-                <fo:flow flow-name="xsl-region-body" font-family="serif" font-size="9pt">
-                    <fo:block font-weight="bold" margin-top="40mm">Table of Contents</fo:block>
-                    <fo:list-block space-before="24pt">
-                        <xsl:apply-templates select="tournament/day/group" mode="toc"/>
+            
+                
+                    <fo:block font-weight="bold" margin-top="10mm" font-size="13pt">Table of Contents</fo:block>
+                    <fo:list-block space-before="12pt" font-size="9pt">
+                        <xsl:apply-templates select="tournament/day/group"/>
                     </fo:list-block>
                 </fo:flow>
             </fo:page-sequence>
@@ -41,21 +40,20 @@
     </xsl:template>
 
     <xsl:template match="tournament/day/group">
-
         <fo:list-item>
             <fo:list-item-label>
                 <fo:block>
-                    <xsl:value-of select="position()"/>
-                </fo:block>
 
+                </fo:block>
             </fo:list-item-label>
+            
             <fo:list-item-body>
                 <fo:block>
                     <xsl:value-of select="@name"/> - <xsl:value-of select="parent::day/@date"/>
                 </fo:block>
-            </fo:list-item-body>
+            </fo:list-item-body>    
+            
         </fo:list-item>
-
 
 
     </xsl:template>
