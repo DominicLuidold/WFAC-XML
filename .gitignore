@@ -5,3 +5,6 @@ out/
 
 # Eclipse specific
 .project
+
+# Miscellaneous
+*.bak
