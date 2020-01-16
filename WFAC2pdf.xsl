@@ -25,36 +25,55 @@
                     <fo:block>
                         <xsl:value-of select="tournament/@name"/>
                     </fo:block>
-              
-         
-            <!-- table of contents -->
-            
-                
-                    <fo:block font-weight="bold" margin-top="10mm" font-size="13pt">Table of Contents</fo:block>
+
+
+                    <!-- table of contents -->
+                    <fo:block font-weight="bold" margin-top="10mm" font-size="13pt">Table of
+                        Contents</fo:block>
                     <fo:list-block space-before="12pt" font-size="9pt">
                         <xsl:apply-templates select="tournament/day/group"/>
                     </fo:list-block>
                 </fo:flow>
             </fo:page-sequence>
+
+            <fo:page-sequence master-reference="wfac-page">
+                <fo:flow flow-name="xsl-region-body">
+
+                    <xsl:apply-templates select="tournament/day"/>
+
+
+                </fo:flow>
+            </fo:page-sequence>
+
         </fo:root>
     </xsl:template>
 
     <xsl:template match="tournament/day/group">
         <fo:list-item>
             <fo:list-item-label>
-                <fo:block>
-
-                </fo:block>
+                <fo:block> </fo:block>
             </fo:list-item-label>
-            
+
             <fo:list-item-body>
                 <fo:block>
                     <xsl:value-of select="@name"/> - <xsl:value-of select="parent::day/@date"/>
                 </fo:block>
-            </fo:list-item-body>    
-            
+            </fo:list-item-body>
+
         </fo:list-item>
 
 
     </xsl:template>
+
+    <!-- Template for a day -->
+
+    <xsl:template match="tournament/day">
+
+
+        <fo:block>
+            <xsl:value-of select="position()"/>. Day, <xsl:value-of select="@date"/>
+        </fo:block>
+
+    </xsl:template>
+
 </xsl:stylesheet>
